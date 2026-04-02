@@ -1,0 +1,37 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples
+vdemux_1to5_4bit
+IKM40R]AVLcV3Wb[>;b^Ro0
+VN;Un[HJ0U9<FUGP@cGg=J0
+Z0 dC:\altera\91\modelsim_ase\examples\Lab5
+w1775120647
+8C:/altera/91/modelsim_ase/examples/Lab5/Lab5_Cherevatov.v
+FC:/altera/91/modelsim_ase/examples/Lab5/Lab5_Cherevatov.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 o-work work -nocovercells -O0
+!s100 ^]1h>GMl3E=XgXCYMV4YS1
+!s85 0
+!s101 -O0
+Z3 !s102 -nocovercells
+vtb_demux_1to5_4bit
+!s100 `5i3C0[9fGEEPAIKKfzO:1
+IHV`UH]Dkez]9DKGVOQz2X1
+VoQb`fYVOVT0Y]V?X2RoOJ1
+Z4 dC:\altera\91\modelsim_ase\examples\Lab5
+w1775120740
+8C:/altera/91/modelsim_ase/examples/Lab5/Lab5_Cherevatov_testbench.v
+FC:/altera/91/modelsim_ase/examples/Lab5/Lab5_Cherevatov_testbench.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R3
+R2
